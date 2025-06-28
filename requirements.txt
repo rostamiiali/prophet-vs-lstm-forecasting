@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib==3.8.2
-scikit-learn
-tensorflow==2.15.0
-prophet==1.1.4
