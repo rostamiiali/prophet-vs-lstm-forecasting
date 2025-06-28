@@ -1,6 +1,0 @@
-streamlit
-prophet
-matplotlib
-scikit-learn
-tensorflow
-pandas
